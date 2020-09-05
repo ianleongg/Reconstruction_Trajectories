@@ -31,7 +31,7 @@ The goals / steps of this project are the following:
 
 #### 1. Generate data.
 
-* A Car class was initialized with various functions such as reverse, forward, steer, gas, go, etc.
+ * A Car class was initialized with various functions such as reverse, forward, steer, gas, go, etc.
 
   - 1st Manuever: accelerate and then turn 270 degrees left
 
