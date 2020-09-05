@@ -33,18 +33,15 @@ The goals / steps of this project are the following:
 
 * A Car class was initialized with various functions such as reverse, forward, steer, gas, go, etc.
 
-  - 1st Manuever: 
-   - accelerate and then turn 270 degrees left
+  - 1st Manuever: accelerate and then turn 270 degrees left
 
 ![alt text][image1]
 
-   - 2nd Manuever: 
-    - accelerate onto highway and change lanes
+   - 2nd Manuever: accelerate onto highway and change lanes
 
 ![alt text][image2]
 
-   - 3rd Manuever:
-    - parallel parking
+   - 3rd Manuever: parallel parking
 
 ![alt text][image3]
 
