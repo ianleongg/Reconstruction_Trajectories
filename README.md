@@ -38,13 +38,13 @@ The goals / steps of this project are the following:
 
 ![alt text][image1]
 
-  - 2nd Manuever: 
-   - accelerate onto highway and change lanes
+   - 2nd Manuever: 
+    - accelerate onto highway and change lanes
 
 ![alt text][image2]
 
-  - 3rd Manuever:
-   - parallel parking
+   - 3rd Manuever:
+    - parallel parking
 
 ![alt text][image3]
 
